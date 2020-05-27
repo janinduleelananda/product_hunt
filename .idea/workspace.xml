@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cda040db-3034-4a98-ba3a-d9b07bcc0d45" name="Default Changelist" comment="" />
+    <list default="true" id="cda040db-3034-4a98-ba3a-d9b07bcc0d45" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/producthunt/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/producthunt/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/producthunt/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/producthunt/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/producthunt/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/producthunt/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/templates/products/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/templates/products/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +34,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cO4TepdP009bei1z9Y5QJJ0j2O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,10 +47,12 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/producthunt/static" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/producthunt/static" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -44,14 +69,29 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="172" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590386580046">
       <screen x="63" y="27" width="1303" height="741" />
     </state>
     <state x="172" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/63.27.1303.741@63.27.1303.741" timestamp="1590386580046" />
-    <state x="823" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1590387255120">
+    <state x="823" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1590587619447">
       <screen x="63" y="27" width="1303" height="741" />
     </state>
-    <state x="823" y="154" width="424" height="484" key="FileChooserDialogImpl/63.27.1303.741@63.27.1303.741" timestamp="1590387255120" />
+    <state x="823" y="154" width="424" height="484" key="FileChooserDialogImpl/63.27.1303.741@63.27.1303.741" timestamp="1590587619447" />
+    <state x="94" y="27" width="620" height="741" key="find.popup" timestamp="1590596207075">
+      <screen x="63" y="27" width="1303" height="741" />
+    </state>
+    <state x="94" y="27" width="620" height="741" key="find.popup/63.27.1303.741@63.27.1303.741" timestamp="1590596207075" />
   </component>
 </project>
